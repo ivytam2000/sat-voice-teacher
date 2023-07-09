@@ -1,0 +1,33 @@
+.prompt-button {
+    display: inline-block;
+    padding: 1rem;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #52796f;
+    background-color: #ffffff;
+    border: 1px solid #52796f;
+
+    border-radius: 6px;
+    cursor: pointer;
+
+  }
+
+  .prompt-button:hover {
+    background-color: #52796f;
+    color: white;
+  }
+
+
+  .prompt-bar-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .prompt-button-wrapper{
+    padding: 10px;
+
+  }

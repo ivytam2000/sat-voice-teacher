@@ -1,0 +1,11 @@
+/server/venv/
+/server/KnowledgeBaseUpdate.csv 
+/server/KnowledgeBaseUpdate.numbers 
+/server/KnowledgeBaseUpdate.pdf 
+/server/hello.mp3 
+/server/speech.mp3
+.DS_Store
+server/.DS_Store
+/server/audio/
+repo-link.txt
+/server/*.mp3

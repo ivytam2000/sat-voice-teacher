@@ -1,0 +1,39 @@
+
+.radio-button {
+    display: inline-block;
+    padding: 1rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #52796f;
+    background-color: #ffffff;
+    border: 1px solid #52796f;
+
+    border-radius: 10rem;
+    cursor: pointer;
+
+  }
+
+  .radio-button:hover {
+    background-color: #52796f;
+    color: white;
+  }
+
+  .active-radio-button {
+    background-color: #52796f;
+    color: white;
+  }
+
+
+  .radio-bar-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .radio-button-wrapper{
+    padding: 10px;
+
+  }
